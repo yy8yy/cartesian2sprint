@@ -1,0 +1,15 @@
+ref:
+Graph theory meets Ab Inito MD: atomic structures and transformations at the nanoscale.
+		PRL 107,085504(2011)
+
+result:
+	FH2OICH3	220 meV
+
+xyz:	3*n
+graph:	n  
+
+maybe accurate for big cluster but bad for small molecular.
+
+dsyev:
+A * v(i)^T = lamda(i) * v(i)^T
+after dsyev A=[v(1)^T,v(2)^T,...]
